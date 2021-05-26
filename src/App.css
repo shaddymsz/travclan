@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card-table{
+  align-items: center;
+margin: auto;
+max-height: 60%;
+  max-width: 70%;
+}
+.btn{
+  background-color: blue;
 }
